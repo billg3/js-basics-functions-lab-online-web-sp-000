@@ -23,10 +23,16 @@ else {
 }
 
 function calculatesFarePrice(start, end){
-
-if
-
-
-
+const feet = distanceTravelledInFeet (start, end);
+if (feet <= 400){
+return 0}
+else if (400 < feet < 2000){
+  return feet * .02
+}
+else if (feet >= 2000){
+  return 25
+}
+else {
+  return 'cannot travel that far'}
 
 }
