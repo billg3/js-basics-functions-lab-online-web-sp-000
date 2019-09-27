@@ -20,5 +20,4 @@ if (start > end){
 else {
   return (end - start) * 264
 }
-
 }
