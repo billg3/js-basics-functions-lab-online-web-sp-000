@@ -34,7 +34,9 @@ else if (400 < feet <= 2000){
 else if (2000 < feet < 2500){
   return 25;
 }
+
 else {
-  return 'cannot travel that far'}
+  return 'cannot travel that far';
+}
 
 }
