@@ -24,7 +24,7 @@ else {
 
 function calculatesFarePrice(start, end){
 
-if 
+if
 
 
 
