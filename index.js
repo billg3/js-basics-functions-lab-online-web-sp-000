@@ -24,10 +24,9 @@ else {
 
 function calculatesFarePrice(start, destination){
 
-if 
+if
 
 
 
-  
+
 }
-
