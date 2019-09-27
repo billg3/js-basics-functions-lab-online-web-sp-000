@@ -8,7 +8,8 @@ else {
 }
 
 
-function distanceFromHqInFeet (Value) {
-blocks =  distanceFromHqInBlocks(Value);
-
+function distanceFromHqInFeet (blockNumber) {
+blocks =  distanceFromHqInBlocks(blockNumber);
+feet = blocks * 264
+return feet
 }
