@@ -22,9 +22,9 @@ else {
 }
 }
 
-function calculatesFarePrice(start, destination){
+function calculatesFarePrice(start, end){
 
-if
+if 
 
 
 
